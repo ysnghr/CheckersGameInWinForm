@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\Checker Game\Checker Game\bin\Debug\Checker Game.exe.config
+C:\Users\Acer\source\repos\Checker Game\Checker Game\bin\Debug\Checker Game.exe
+C:\Users\Acer\source\repos\Checker Game\Checker Game\bin\Debug\Checker Game.pdb
+C:\Users\Acer\source\repos\Checker Game\Checker Game\obj\Debug\Checker Game.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Checker Game\Checker Game\obj\Debug\Checker_Game.Properties.Resources.resources
+C:\Users\Acer\source\repos\Checker Game\Checker Game\obj\Debug\Checker Game.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Checker Game\Checker Game\obj\Debug\Checker Game.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Checker Game\Checker Game\obj\Debug\Checker Game.exe
+C:\Users\Acer\source\repos\Checker Game\Checker Game\obj\Debug\Checker Game.pdb
+C:\Users\Acer\source\repos\Checker Game\Checker Game\obj\Debug\Checker_Game.CheckerGame.resources
